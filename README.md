@@ -1,6 +1,6 @@
-# Real-Time Chat & Messaging: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
+# Real-Time Chat Messaging: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
 
-This is a repository for a Real-Time Chat & Messaging: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
+This is a repository for a Real-Time Chat Messaging: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
 
 we'll walk you through the process of creating a fully-functional and visually stunning chat application that rivals the best in the industry.
 
@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/rohit4242/realtime-chat-and-messaging.git
+git clone https://github.com/rohit4242/realtime-chat-messaging.git
 ```
 
 ### Install packages
